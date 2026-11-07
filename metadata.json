@@ -1,0 +1,5 @@
+{
+  "name": "SZU Prijímačky Simulátor",
+  "description": "Webová aplikácia na simuláciu prijímacích skúšok na Slovenskú zdravotnícku univerzitu (SZU) z Biológie a Chémie.",
+  "requestFramePermissions": []
+}
