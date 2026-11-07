@@ -35279,22 +35279,23 @@
     "subject": "chemistry",
     "number": 366,
     "text": "Vyberte správne dvojice:",
+    "image": "questions/chem-366.png",
     "options": [
       {
         "id": "A",
-        "text": "nerozvetvený nasýtený uhľovodík"
+        "text": ""
       },
       {
         "id": "B",
-        "text": "rozvetvený nasýtený uhľovodík"
+        "text": ""
       },
       {
         "id": "C",
-        "text": "cyklický nenasýtený uhľovodík ()"
+        "text": ""
       },
       {
         "id": "D",
-        "text": "aromatický uhľovodík r001 vV"
+        "text": ""
       }
     ],
     "correctAnswers": ["C", "D"]
@@ -49854,7 +49855,8 @@
     "id": "chem-948",
     "subject": "chemistry",
     "number": 948,
-    "text": "Skupina je súčasťou molekuly:",
+    "text": "Skupina na obrázku je súčasťou molekuly:",
+    "image": "questions/chem-948.png",
     "options": [
       {
         "id": "A",
